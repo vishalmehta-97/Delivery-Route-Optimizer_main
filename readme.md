@@ -20,26 +20,47 @@
 ## 📂 Project Structure
 
 project_root/
+<br>
 │
+<br>
 ├── data/ # Store your .csv city datasets here
+<br>
 │ └── sample_cities.csv
+<br>
 │
+<br>
 ├── src/
+<br>
 │ ├── gui_app.py # Main GUI dashboard (run this)
+<br>
 │ ├── main.py # CLI/extra launcher (if present)
+<br>
 │ ├── graph/ # Data & algorithm modules
+<br>
 │ ├── algorithms/ # TSP algorithm code
+<br>
 │ └── ... # Other supporting files
+<br>
 │
+<br>
 ├── assets/ # Add your bike/package PNG icons here!
+<br>
 │ ├── bike.png # Starter icon (depot/delivery man)
+<br>
 │ ├── house.png # City icon (delivery location)
+<br>
 │ └── ...
+<br>
 │
+<br>
 ├── README.md
+<br>
 ├── requirements.txt
+<br>
 └── docs/
+<br>
 └── USER_GUIDE.md
+
 
 text
 
@@ -142,3 +163,4 @@ text
 
 
 > **Let's optimize delivery the smart way—visually!**
+
