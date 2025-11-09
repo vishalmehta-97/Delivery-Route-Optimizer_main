@@ -1,6 +1,6 @@
 # 🚚 Delivery Route Optimizer — Interactive TSP Visual Dashboard
 
-![TSP Visualization Banner](https://i.imgur.com/wnF2Ot2.png)
+
 > **A modern Python dashboard for learning and optimizing delivery routes using classic Travelling Salesman Problem (TSP) algorithms — with easy-to-use controls, named city points, and beautiful graphical output!**
 
 ---
@@ -139,5 +139,6 @@ text
 - Still confused? Ask here for step-by-step CLI instructions!
 
 ---
+
 
 > **Let's optimize delivery the smart way—visually!**
