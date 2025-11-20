@@ -494,7 +494,6 @@ class TSPVisualizerGUI:
         self.fig_right.tight_layout()
         self.canvas_right.draw()
 
-
 def main():
     """Launch GUI application."""
     root = tk.Tk()
@@ -504,3 +503,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
